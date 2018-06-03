@@ -1,2 +1,5 @@
 jupyter
 keras==2.1.6
+tensorflow
+opencv-python
+matplotlib
